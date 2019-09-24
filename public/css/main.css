@@ -1,0 +1,7 @@
+.brand .project-info {
+    padding: 15px;
+    width: 100%;
+    border-radius: 5px;
+    color: #fff !important;
+    z-index: 2;
+}
